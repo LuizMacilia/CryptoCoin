@@ -69,6 +69,6 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
     implementation("androidx.activity:activity-ktx:1.7.0")
 
-    implementation("androiddx.appcompat:appcompat:1.4.1")
+    implementation("androidx.appcompat:appcompat:1.7.0")
 
 }
